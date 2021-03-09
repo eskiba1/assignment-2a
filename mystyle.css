@@ -1,0 +1,66 @@
+body {
+  background-color: #e8e8e8;
+}
+
+h1 {
+  color: white;
+  margin-left: 20px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+#mermaid {
+  width: 200px;
+  border: 15px solid #593c30;
+  padding: 30px;
+  margin: 20px;
+}
+
+#rcorners1 {
+  border-radius: 25px;
+  background: #9d6e64;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: 20px;
+}
+
+#rcorners2 {
+  border-radius: 25px;
+  background: #c4a497;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: 20px;
+}
+
+#rcorners3 {
+  border-radius: 25px;
+  background: #7a787d;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: 20px;
+}
+
+#rcorners4 {
+  border-radius: 25px;
+  background: #e8dbd3;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: 20px;
+}
+
+#rcorners5 {
+  border-radius: 25px;
+  background: #bdb0a0;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: 20px;
+}
+
+
+img {
+  border-radius: 50%;
+}
